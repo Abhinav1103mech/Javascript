@@ -105,5 +105,5 @@ console.log(result);       // NaN
 
 Number.isNaN(result)       // true
 ```
-This change is by Tanuja
+This change is by Tanuja And Abhinav
 */
